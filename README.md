@@ -1,2 +1,3 @@
-# portfolio
-my simple portfolio
+# Portfolio
+My simple portfolio
+built in ReactJs with TailwindCSS
